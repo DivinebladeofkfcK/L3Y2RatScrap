@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.focustest-15228867.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "F:/RatScrap/To Bring On 18-01-22/RatScrap(17_22-47)(HP)/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "FocusTest-15228867 [UE Editor]"
+				}
+			}
+		}
+	]
+}
